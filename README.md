@@ -16,7 +16,7 @@
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/afrinabatrisyia)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nurafrinabatrisyia)
 - 📧 Email: nurafrinaee.edu@gmail.com
 
 ## 💡 Fun Fact
