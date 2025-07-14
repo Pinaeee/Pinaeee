@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Afrina Batrisyia!
+# 👋 Hi there, I'm Nurafrina Batrisyia!
 
 🎓 I'm a Software Engineering student at **Multimedia University (MMU)** with a passion for building smart, user-friendly web applications. I enjoy solving problems, learning new technologies, and developing creative software solutions that make a difference.
 
