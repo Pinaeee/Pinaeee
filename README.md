@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="120" style="border-radius:50%" alt="Nurafrina Batrisyia" />
+  <img src="https://avatars.githubusercontent.com/u/pinaeee" width="120" style="border-radius:50%" alt="Nurafrina Batrisyia" />
   
   # 🚀 Nurafrina Batrisyia's GitHub Dashboard
   
