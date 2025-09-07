@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/Pinaeee" width="120" style="border-radius:50%" alt="Nurafrina Batrisyia" />
+  <img src="https://avatars.githubusercontent.com/u/161324749?v=4" width="120" style="border-radius:50%" alt="Nurafrina Batrisyia" />
   
   # 🚀 Nurafrina Batrisyia's GitHub Dashboard
   <sub>Software Engineering Student @ Multimedia University (MMU)</sub>
@@ -16,9 +16,9 @@
 
 ## 🌟 Featured Repositories
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/your-uploaded-dashboard-image.png" width="600" alt="GitHub Dashboard" />
-</div>
+</div> -->
 
 | Repository | Description |
 |------------|-------------|
