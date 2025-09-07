@@ -1,26 +1,65 @@
-# 👋 Hi there, I'm Nurafrina Batrisyia!
 
-🎓 I'm a Software Engineering student at **Multimedia University (MMU)** with a passion for building smart, user-friendly web applications. I enjoy solving problems, learning new technologies, and developing creative software solutions that make a difference.
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="120" style="border-radius:50%" alt="Nurafrina Batrisyia" />
+  
+  # 🚀 Nurafrina Batrisyia's GitHub Dashboard
+  
+  <sub>Software Engineering Student @ Multimedia University (MMU)</sub>
+</div>
+
+---
+
+## 🌟 Featured Repositories
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your-uploaded-dashboard-image.png" width="600" alt="GitHub Dashboard" />
+</div>
+
+| Repository | Description |
+|------------|-------------|
+| [Budgetly](https://github.com/Pinaeee/Budgetly) | Personal finance tracker with analytics dashboard |
+| [Portfolio](https://github.com/Pinaeee/Portfolio) | Interactive portfolio website |
+| [PaddockCrewAutoDetailing](https://github.com/Pinaeee/PaddockCrewAutoDetailing) | Car detailing booking system |
+| [Emotion-Detector](https://github.com/Pinaeee/Emotion-Detector) | ML-powered emotion recognition |
+| [WealthWise](https://github.com/Pinaeee/WealthWise) | Wealth management dashboard |
+| [Thrash-and-Treasure-System](https://github.com/Pinaeee/Thrash-and-Treasure-System) | Second-hand item platform |
+| [Zero-Waste-Recipe-Generator](https://github.com/Pinaeee/Zero-Waste-Recipe-Generator) | AI-powered recipe generator |
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, PHP, JavaScript, C++, Java, HTML 
-- **Frameworks**: Django, Laravel, Bootstrap, Tailwind CSS, Flask, Node.js, React.js
-- **Databases**: SQLite, MySQL
-- **Tools**: Git, GitHub, Postman, VS Code
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,cpp,java,html,css,django,laravel,flask,nodejs,react,bootstrap,tailwind,sqlite,mysql,git,github,vscode,postman" />
+</div>
 
-## 🔨 Projects
+**Languages:** Python, PHP, JavaScript, C++, Java, HTML, CSS  
+**Frameworks:** Django, Laravel, Flask, Node.js, React.js, Bootstrap, Tailwind CSS  
+**Databases:** SQLite, MySQL  
+**Tools:** Git, GitHub, Postman, VS Code
 
-- 🔹 [Thrash and Treasure System](https://github.com/afrinabatrisyia/thrash-and-treasure)  
-  A Django-based second-hand item platform that helps classify items as trash or treasure.
+---
 
-## 📫 Let's Connect
+## ✨ Dashboard Features
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nurafrinabatrisyia)
-- 📧 Email: nurafrinaee.edu@gmail.com
+- � **Analytics**: Real-time data visualization and insights
+- 🤖 **AI Integration**: ML-powered features (emotion detection, recipe generation)
+- 🛡️ **Authentication**: Secure login and user management
+- 🎨 **Modern UI**: Responsive, mobile-friendly design
+- 🔗 **API Ready**: RESTful endpoints for integration
+- 🗂️ **Project Portfolio**: Showcase of diverse software solutions
 
-## 💡 Fun Fact
+---
 
-I believe one line of clean code is worth more than ten lines of clever code.
+## 📫 Connect with Me
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+- [LinkedIn](https://www.linkedin.com/in/nurafrina-batrisyia)
+- Email: nurafrinaee.edu@gmail.com
+
+---
+
+<div align="center">
+  <strong>"One line of clean code is worth more than ten lines of clever code."</strong>
+  <br>
+  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+</div>
