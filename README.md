@@ -1,10 +1,15 @@
 
+
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/pinaeee" width="120" style="border-radius:50%" alt="Nurafrina Batrisyia" />
+  <img src="https://avatars.githubusercontent.com/u/Pinaeee" width="120" style="border-radius:50%" alt="Nurafrina Batrisyia" />
   
   # 🚀 Nurafrina Batrisyia's GitHub Dashboard
-  
   <sub>Software Engineering Student @ Multimedia University (MMU)</sub>
+  
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pinaeee&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinaeee&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pinaeee&theme=radical" alt="Profile Details" />
 </div>
 
 ---
@@ -53,8 +58,9 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nurafrina-batrisyia)
+- LinkedIn: https://www.linkedin.com/in/nurafrina-batrisyia
 - Email: nurafrinaee.edu@gmail.com
+- My Portfolio: https://portfolio-cui1.onrender.com
 
 ---
 
